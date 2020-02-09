@@ -1,0 +1,5 @@
+# Ticket: Connection
+# Rename this file to .env after filling in your REACT_APP_WEATHER_API_BASE_URL and REACT_APP_WEATHER_API_KEY
+# Do not surround with quotes
+REACT_APP_WEATHER_API_KEY=api_key_you_should_change_to_yours
+REACT_APP_WEATHER_API_BASE_URL=https://api.openweathermap.org/data/2.5/
