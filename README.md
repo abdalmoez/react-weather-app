@@ -1,5 +1,5 @@
-#Weather-react-app
+# Weather-react-app
 Search weather by country or city.
 
-![weather-app-screenshot](https://raw.githubusercontent.com/abdalmoez/react-weather-app/master/screenshoot.png)
+![weather-app-screenshot](https://raw.githubusercontent.com/abdalmoez/react-weather-app/master/screenshot.png)
 
